@@ -1,0 +1,322 @@
+city,name,country,longitude,latitude,storeId,storeHours,zip_code
+Brooklyn,Target Brooklyn College,US,-73.9472427368164,40.6312637329102,6551,"{'sunday': '8:00 AM to 9:00 PM', 'monday': '8:00 AM to 9:00 PM', 'tuesday': '8:00 AM to 9:00 PM', 'wednesday': '8:00 AM to 9:00 PM', 'thursday': '8:00 AM to 9:00 PM', 'friday': '8:00 AM to 9:00 PM', 'saturday': '8:00 AM to 9:00 PM'}",11210
+Kew Gardens,118-24 Queens Blvd,US,-73.8318786621094,40.7143707275391,6348,"{'sunday': '6:00 AM to 8:00 PM', 'monday': '5:30 AM to 8:00 PM', 'tuesday': '5:30 AM to 8:00 PM', 'wednesday': '5:30 AM to 8:00 PM', 'thursday': '5:30 AM to 8:00 PM', 'friday': '5:30 AM to 8:00 PM', 'saturday': '6:00 AM to 8:00 PM'}",11375
+New York,88th & Broadway,US,-73.9753265380859,40.7892875671387,6590,"{'sunday': '6:30 AM to 6:30 PM', 'monday': '5:30 AM to 7:30 PM', 'tuesday': '5:30 AM to 7:30 PM', 'wednesday': '5:30 AM to 7:30 PM', 'thursday': '5:30 AM to 7:30 PM', 'friday': '5:30 AM to 7:30 PM', 'saturday': '6:30 AM to 6:30 PM'}",10024
+New York,42nd & 2nd,US,-73.9728012084961,40.7497825622559,6869,,10017
+New York,NHL store @ 47th & Sixth,US,-73.9824523925781,40.7577857971191,6945,,10019
+New York,23rd btwn 5th & 6th,US,-73.9903106689453,40.7416610717773,6756,"{'sunday': '6:00 AM to 7:30 PM', 'monday': '5:30 AM to 7:00 PM', 'tuesday': '5:30 AM to 7:00 PM', 'wednesday': '5:30 AM to 7:00 PM', 'thursday': '5:30 AM to 7:00 PM', 'friday': '5:30 AM to 7:00 PM', 'saturday': '6:00 AM to 7:30 PM'}",10010
+New York,Houston & W. Broadway,US,-74.0002593994141,40.7268905639648,6995,,10012
+New York,Macy's 6th Floor,US,-73.989501953125,40.7511177062988,6999,,10001
+Staten Island,Target Staten Island T-2006,US,-74.2333145141602,40.5282783508301,7063,"{'sunday': '8:00 AM to 9:00 PM', 'monday': '8:00 AM to 9:00 PM', 'tuesday': '8:00 AM to 9:00 PM', 'wednesday': '8:00 AM to 9:00 PM', 'thursday': '8:00 AM to 9:00 PM', 'friday': '7:00 AM to 9:00 PM', 'saturday': '8:00 AM to 9:00 PM'}",10309
+New York,55th & Lex,US,-73.9699783325195,40.7594451904297,7083,"{'sunday': '6:30 AM to 8:30 PM', 'monday': '5:00 AM to 9:00 PM', 'tuesday': '5:00 AM to 9:00 PM', 'wednesday': '5:00 AM to 9:00 PM', 'thursday': '5:00 AM to 9:00 PM', 'friday': '5:00 AM to 9:00 PM', 'saturday': '6:30 AM to 8:30 PM'}",10022
+Bronx,235th & Johnson Ave,US,-73.9099731445312,40.8857803344727,6966,"{'sunday': '6:00 AM to 9:00 PM', 'monday': '6:00 AM to 9:00 PM', 'tuesday': '6:00 AM to 9:00 PM', 'wednesday': '6:00 AM to 9:00 PM', 'thursday': '6:00 AM to 9:00 PM', 'friday': '6:00 AM to 9:00 PM', 'saturday': '6:00 AM to 9:00 PM'}",10463
+New York,58th btwn 3rd & Lex,US,-73.967887878418,40.7614212036133,7138,,10022
+New York,103rd & Broadway,US,-73.9683685302734,40.7988815307617,7458,,10025
+Brooklyn,1971 86th Street,US,-73.9986114501953,40.6050186157227,7491,"{'sunday': '6:30 AM to 7:00 PM', 'monday': '6:30 AM to 7:00 PM', 'tuesday': '6:30 AM to 7:00 PM', 'wednesday': '6:30 AM to 7:00 PM', 'thursday': '6:30 AM to 7:00 PM', 'friday': '6:30 AM to 7:00 PM', 'saturday': '6:30 AM to 7:00 PM'}",11214
+Brooklyn,Cropsey Ave & Hart Place,US,-73.9854278564453,40.5811080932617,7189,"{'sunday': '6:30 AM to 8:30 PM', 'monday': '6:30 AM to 8:30 PM', 'tuesday': '6:30 AM to 8:30 PM', 'wednesday': '6:30 AM to 8:30 PM', 'thursday': '6:30 AM to 8:30 PM', 'friday': '6:30 AM to 8:30 PM', 'saturday': '6:30 AM to 8:30 PM'}",11224
+New York,Roosevelt Island,US,-73.9528884887695,40.7593269348145,7098,"{'sunday': '6:00 AM to 9:00 PM', 'monday': '5:30 AM to 9:00 PM', 'tuesday': '5:30 AM to 9:00 PM', 'wednesday': '5:30 AM to 9:00 PM', 'thursday': '5:30 AM to 9:00 PM', 'friday': '5:30 AM to 9:00 PM', 'saturday': '6:00 AM to 9:00 PM'}",10044
+New York,Empire State Building,US,-73.9856109619141,40.7486610412598,7549,,10118
+Jackson Heights,78-25 37th Avenue,US,-73.8873596191406,40.749439239502,7615,"{'sunday': '6:00 AM to 10:00 PM', 'monday': '6:00 AM to 10:00 PM', 'tuesday': '6:00 AM to 10:00 PM', 'wednesday': '6:00 AM to 10:00 PM', 'thursday': '6:00 AM to 10:00 PM', 'friday': '6:00 AM to 10:00 PM', 'saturday': '6:00 AM to 10:00 PM'}",11372
+New York,125th & Adam Clayton,US,-73.9486389160156,40.8092460632324,7747,,10027
+Bronx,Eastchester Rd & Waters Pl,US,-73.844352722168,40.8471221923828,7864,,10461
+New York,60th & Third,US,-73.9657440185547,40.762393951416,7919,,10065
+New York,19th & Park,US,-73.9883041381836,40.737979888916,7771,"{'sunday': 'Closed', 'monday': '6:00 AM to 6:00 PM', 'tuesday': '6:00 AM to 6:00 PM', 'wednesday': '6:00 AM to 6:00 PM', 'thursday': '6:00 AM to 6:00 PM', 'friday': '6:00 AM to 6:00 PM', 'saturday': '8:30 AM to 4:00 PM'}",10003
+New York,Marriott Financial Center,US,-74.0146102905273,40.709644317627,7835,,10006
+New York,Pearl & Hanover,US,-74.0091247558594,40.7046012878418,7912,,10005
+Brooklyn,33-42 Hillel Place,US,-73.9485702514648,40.6323394775391,8328,,11210
+Flushing,Target Flushing T-1150,US,-73.8332901000977,40.7834167480469,8059,,11356
+New York,35th & 5th,US,-73.9838256835938,40.749137878418,8588,"{'sunday': '7:00 AM to 9:30 PM', 'monday': '6:00 AM to 9:30 PM', 'tuesday': '6:00 AM to 9:30 PM', 'wednesday': '6:00 AM to 9:30 PM', 'thursday': '6:00 AM to 9:30 PM', 'friday': '6:00 AM to 9:30 PM', 'saturday': '7:00 AM to 9:30 PM'}",10035
+New York,59th & Columbus,US,-73.9849090576172,40.7694473266602,8735,"{'sunday': '7:00 AM to 6:00 PM', 'monday': '6:00 AM to 8:00 PM', 'tuesday': '6:00 AM to 8:00 PM', 'wednesday': '6:00 AM to 8:00 PM', 'thursday': '6:00 AM to 8:00 PM', 'friday': '6:00 AM to 8:00 PM', 'saturday': '7:00 AM to 6:00 PM'}",10025
+New York,Chambers and West Broadway,US,-74.009033203125,40.7155342102051,8692,"{'sunday': '7:00 AM to 6:00 PM', 'monday': '6:00 AM to 7:00 PM', 'tuesday': '6:00 AM to 7:00 PM', 'wednesday': '6:00 AM to 7:00 PM', 'thursday': '6:00 AM to 7:00 PM', 'friday': '6:00 AM to 7:00 PM', 'saturday': '6:00 AM to 7:00 PM'}",10007
+New York,75th & First,US,-73.9546279907227,40.7700309753418,8795,,10021
+New York,90th & First,US,-73.9474716186523,40.7791175842285,8923,"{'sunday': '6:00 AM to 8:00 PM', 'monday': '6:00 AM to 8:00 PM', 'tuesday': '6:00 AM to 8:00 PM', 'wednesday': '6:00 AM to 8:00 PM', 'thursday': '6:00 AM to 8:00 PM', 'friday': '6:00 AM to 8:00 PM', 'saturday': '6:00 AM to 8:00 PM'}",10128
+New York,Spring and Varick,US,-74.0055770874023,40.725772857666,8947,"{'sunday': '7:00 AM to 6:00 PM', 'monday': '6:30 AM to 6:00 PM', 'tuesday': '6:30 AM to 6:00 PM', 'wednesday': '6:30 AM to 6:00 PM', 'thursday': '6:30 AM to 6:00 PM', 'friday': '6:30 AM to 6:00 PM', 'saturday': '7:00 AM to 6:00 PM'}",10013
+New York,Broadway & Grand,US,-74.0004501342773,40.7212600708008,8907,,10013
+Brooklyn,607 Brighton Beach Ave,US,-73.9611282348633,40.5778656005859,9148,"{'sunday': '7:00 AM to 8:00 PM', 'monday': '6:30 AM to 8:00 PM', 'tuesday': '6:30 AM to 8:00 PM', 'wednesday': '6:30 AM to 8:00 PM', 'thursday': '6:30 AM to 8:00 PM', 'friday': '6:30 AM to 8:00 PM', 'saturday': '7:00 AM to 8:00 PM'}",11235
+New York,One Penn Plaza,US,-73.9927673339844,40.7516174316406,9206,,10119
+New York,Liberty & Nassau,US,-74.0095062255859,40.708740234375,9218,,10038
+New York,57th & Seventh,US,-73.9789733886719,40.7648735046387,8920,,10019
+New York,44th & Lex,US,-73.9749755859375,40.7531776428223,8976,,10017
+New York,14th & Sixth,US,-73.9963989257812,40.7369804382324,8919,"{'sunday': '7:00 AM to 7:00 PM', 'monday': '6:00 AM to 7:00 PM', 'tuesday': '6:00 AM to 7:00 PM', 'wednesday': '6:00 AM to 7:00 PM', 'thursday': '6:00 AM to 7:00 PM', 'friday': '6:00 AM to 7:00 PM', 'saturday': '7:00 AM to 7:00 PM'}",10011
+New York,50th & Lex,US,-73.9726333618164,40.7568626403809,9231,"{'sunday': '6:30 AM to 5:00 PM', 'monday': '5:30 AM to 8:00 PM', 'tuesday': '5:30 AM to 8:00 PM', 'wednesday': '5:30 AM to 8:00 PM', 'thursday': '5:30 AM to 8:00 PM', 'friday': '5:30 AM to 8:00 PM', 'saturday': '6:30 AM to 5:00 PM'}",10022
+New York,75th & Broadway,US,-73.981071472168,40.7810173034668,9267,"{'sunday': '5:30 AM to 11:00 PM', 'monday': '5:30 AM to 11:00 PM', 'tuesday': '5:30 AM to 11:00 PM', 'wednesday': '5:30 AM to 11:00 PM', 'thursday': '5:30 AM to 11:00 PM', 'friday': '5:30 AM to 11:00 PM', 'saturday': '5:30 AM to 11:00 PM'}",10023
+New York,Allen & Delancey,US,-73.9899520874023,40.7193222045898,9589,"{'sunday': '6:00 AM to 8:00 PM', 'monday': '6:00 AM to 8:00 PM', 'tuesday': '6:00 AM to 8:00 PM', 'wednesday': '6:00 AM to 8:00 PM', 'thursday': '6:00 AM to 8:00 PM', 'friday': '6:00 AM to 10:00 PM', 'saturday': '6:00 AM to 10:00 PM'}",10002
+New York,41st & Madison,US,-73.9797210693359,40.7519569396973,9351,,10017
+New York,55th & Seventh,US,-73.9810791015625,40.7643852233887,9675,"{'sunday': '6:30 AM to 8:00 PM', 'monday': '6:00 AM to 8:00 PM', 'tuesday': '6:00 AM to 8:00 PM', 'wednesday': '6:00 AM to 8:00 PM', 'thursday': '6:00 AM to 8:00 PM', 'friday': '6:00 AM to 8:00 PM', 'saturday': '6:30 AM to 8:00 PM'}",10019
+Astoria,35th Ave and 37th St,US,-73.9234848022461,40.7559089660645,9764,"{'sunday': '6:30 AM to 8:30 PM', 'monday': '5:30 AM to 8:30 PM', 'tuesday': '5:30 AM to 8:30 PM', 'wednesday': '5:30 AM to 8:30 PM', 'thursday': '5:30 AM to 8:30 PM', 'friday': '5:30 AM to 8:30 PM', 'saturday': '6:30 AM to 8:30 PM'}",11106
+New York,21st & 5th,US,-73.9911651611328,40.7403831481934,10251,,10035
+New York,85th & Lexington,US,-73.9560394287109,40.7786483764648,10249,"{'sunday': '6:30 AM to 8:00 PM', 'monday': '5:30 AM to 9:00 PM', 'tuesday': '5:30 AM to 9:00 PM', 'wednesday': '5:30 AM to 9:00 PM', 'thursday': '5:30 AM to 9:00 PM', 'friday': '5:30 AM to 9:00 PM', 'saturday': '6:30 AM to 8:00 PM'}",10028
+Sunnyside,46-09 Queens Blvd,US,-73.9183349609375,40.7434349060059,10255,"{'sunday': '6:00 AM to 9:00 PM', 'monday': '5:30 AM to 9:30 PM', 'tuesday': '5:30 AM to 9:30 PM', 'wednesday': '5:30 AM to 9:30 PM', 'thursday': '5:30 AM to 9:30 PM', 'friday': '5:30 AM to 9:30 PM', 'saturday': '5:30 AM to 9:30 PM'}",11104
+New York,Nassau & Fulton,US,-74.0079345703125,40.7101707458496,10655,"{'sunday': '6:00 AM to 6:30 PM', 'monday': '6:00 AM to 7:00 PM', 'tuesday': '6:00 AM to 7:00 PM', 'wednesday': '6:00 AM to 7:00 PM', 'thursday': '6:00 AM to 7:00 PM', 'friday': '6:00 AM to 7:00 PM', 'saturday': '6:00 AM to 7:00 PM'}",10038
+New York,118th & Frederick Douglas Blvd.,US,-73.9544982910156,40.8059158325195,10763,"{'sunday': '6:30 AM to 9:00 PM', 'monday': '6:00 AM to 9:00 PM', 'tuesday': '6:00 AM to 9:00 PM', 'wednesday': '6:00 AM to 9:00 PM', 'thursday': '6:00 AM to 9:00 PM', 'friday': '6:00 AM to 9:00 PM', 'saturday': '6:30 AM to 9:00 PM'}",10026
+Jamaica,St. John's University - Queens,US,-73.7961349487305,40.7225151062012,10917,"{'sunday': 'Closed', 'monday': '7:30 AM to 9:00 PM', 'tuesday': '7:30 AM to 9:00 PM', 'wednesday': '7:30 AM to 9:00 PM', 'thursday': '7:30 AM to 9:00 PM', 'friday': '7:30 AM to 9:00 PM', 'saturday': 'Closed'}",11366
+Bronx,Target Bronx Terminal T-2475,US,-73.9303894042969,40.8196296691895,10906,"{'sunday': '8:00 AM to 9:00 PM', 'monday': '8:00 AM to 9:00 PM', 'tuesday': '8:00 AM to 9:00 PM', 'wednesday': '8:00 AM to 9:00 PM', 'thursday': '8:00 AM to 9:00 PM', 'friday': '8:00 AM to 9:00 PM', 'saturday': '8:00 AM to 9:00 PM'}",10039
+New York,24th & 7th,US,-73.995246887207,40.7443161010742,10973,,10001
+New York,Church Street & Murray,US,-74.0091247558594,40.7137794494629,11040,"{'sunday': '6:30 AM to 7:00 PM', 'monday': '6:00 AM to 7:30 PM', 'tuesday': '6:00 AM to 7:30 PM', 'wednesday': '6:00 AM to 7:30 PM', 'thursday': '6:00 AM to 7:30 PM', 'friday': '6:00 AM to 7:30 PM', 'saturday': '6:30 AM to 7:00 PM'}",10007
+New York,43rd & Madison,US,-73.9782485961914,40.7536849975586,11140,,10017
+New York,Rockefeller Center Concourse,US,-73.9786605834961,40.7587623596191,11153,,10111
+New York,15th & 3rd,US,-73.9865951538086,40.7337493896484,11087,"{'sunday': '7:00 AM to 6:30 PM', 'monday': '5:45 AM to 6:30 PM', 'tuesday': '5:45 AM to 6:30 PM', 'wednesday': '5:45 AM to 6:30 PM', 'thursday': '5:45 AM to 6:30 PM', 'friday': '5:45 AM to 6:30 PM', 'saturday': '7:00 AM to 6:30 PM'}",10003
+New York,49th & 8th,US,-73.9865951538086,40.7619171142578,11196,,10019
+New York,24th & 6th,US,-73.9920272827148,40.7435722351074,11203,"{'sunday': '5:30 AM to 9:00 PM', 'monday': '5:30 AM to 9:00 PM', 'tuesday': '5:30 AM to 9:00 PM', 'wednesday': '5:30 AM to 9:00 PM', 'thursday': '5:30 AM to 9:00 PM', 'friday': '5:30 AM to 9:00 PM', 'saturday': '5:30 AM to 9:00 PM'}",10019
+New York,52nd & 7th,US,-73.981803894043,40.7619094848633,11393,,10019
+New York,111th & Broadway,US,-73.966667175293,40.8046951293945,11432,,10025
+New York,114th & Broadway,US,-73.9649124145508,40.8071098327637,11157,"{'sunday': '5:30 AM to 10:00 PM', 'monday': '5:30 AM to 10:00 PM', 'tuesday': '5:30 AM to 10:00 PM', 'wednesday': '5:30 AM to 10:00 PM', 'thursday': '5:30 AM to 10:00 PM', 'friday': '5:30 AM to 10:00 PM', 'saturday': '5:30 AM to 10:00 PM'}",10025
+New York,27th & 6th,US,-73.9908752441406,40.7452125549316,11291,,10001
+New York,35th & 7th,US,-73.9902114868164,40.7518424987793,11433,"{'sunday': '6:30 AM to 7:00 PM', 'monday': '5:30 AM to 9:00 PM', 'tuesday': '5:30 AM to 9:00 PM', 'wednesday': '5:30 AM to 9:00 PM', 'thursday': '5:30 AM to 9:00 PM', 'friday': '5:30 AM to 9:00 PM', 'saturday': '6:30 AM to 8:00 PM'}",10018
+New York,60th and Broadway,US,-73.9823913574219,40.7691459655762,11270,,10023
+New York,Trump Tower @ 57th & Fifth,US,-73.9740600585938,40.7624015808105,11467,,10022
+New York,81st & Broadway,US,-73.9786987304688,40.7849044799805,11483,"{'sunday': '6:00 AM to 8:00 PM', 'monday': '6:00 AM to 8:30 PM', 'tuesday': '6:00 AM to 8:30 PM', 'wednesday': '6:00 AM to 8:30 PM', 'thursday': '6:00 AM to 8:30 PM', 'friday': '6:00 AM to 8:30 PM', 'saturday': '6:00 AM to 8:30 PM'}",10024
+New York,Spring Street at Crosby St,US,-73.9979553222656,40.7225341796875,9347,"{'sunday': '7:00 AM to 8:30 PM', 'monday': '6:00 AM to 8:00 PM', 'tuesday': '6:00 AM to 8:00 PM', 'wednesday': '6:00 AM to 8:00 PM', 'thursday': '6:00 AM to 8:00 PM', 'friday': '6:00 AM to 8:30 PM', 'saturday': '7:00 AM to 8:00 PM'}",10002
+New York,76th & Columbus,US,-73.9771423339844,40.7799835205078,11532,,10023
+New York,73rd & Columbus,US,-73.9781723022461,40.7779502868652,11600,"{'sunday': '6:30 AM to 7:30 PM', 'monday': '6:30 AM to 7:30 PM', 'tuesday': '6:30 AM to 7:30 PM', 'wednesday': '6:30 AM to 7:30 PM', 'thursday': '6:30 AM to 7:30 PM', 'friday': '6:30 AM to 7:30 PM', 'saturday': '6:30 AM to 7:30 PM'}",10023
+New York,78th & Lexington,US,-73.9593200683594,40.7741165161133,11688,,10075
+New York,66th & Third,US,-73.9635925292969,40.7659339904785,11721,,10065
+New York,49th & Seventh,US,-73.9836959838867,40.7607536315918,11631,"{'sunday': '9:30 AM to 6:30 PM', 'monday': '6:00 AM to 6:00 PM', 'tuesday': '6:00 AM to 6:00 PM', 'wednesday': '6:00 AM to 6:00 PM', 'thursday': '6:00 AM to 6:00 PM', 'friday': '6:00 AM to 6:00 PM', 'saturday': '9:30 AM to 6:30 PM'}",10019
+Staten Island,Victory Blvd & Bradley Ave,US,-74.1325836181641,40.6122360229492,11701,,10314
+New York,57th & Lex,US,-73.9691009521484,40.7612648010254,11862,"{'sunday': '6:30 AM to 7:00 PM', 'monday': '5:30 AM to 8:00 PM', 'tuesday': '5:30 AM to 8:00 PM', 'wednesday': '5:30 AM to 8:00 PM', 'thursday': '5:30 AM to 8:00 PM', 'friday': '5:30 AM to 8:00 PM', 'saturday': '6:30 AM to 7:00 PM'}",10037
+Brooklyn,Court St & Dean St,US,-73.9927749633789,40.688549041748,11909,,11201
+New York,52nd & 8th,US,-73.9853134155273,40.7637214660645,11952,"{'sunday': '6:00 AM to 9:00 PM', 'monday': '6:00 AM to 9:00 PM', 'tuesday': '6:00 AM to 9:00 PM', 'wednesday': '6:00 AM to 9:00 PM', 'thursday': '6:00 AM to 9:00 PM', 'friday': '6:00 AM to 9:00 PM', 'saturday': '6:00 AM to 9:00 PM'}",10019
+New York,31st & 7th,US,-73.9923706054688,40.7489891052246,11599,"{'sunday': '6:30 AM to 9:00 PM', 'monday': '5:30 AM to 10:00 PM', 'tuesday': '5:30 AM to 10:00 PM', 'wednesday': '5:30 AM to 10:00 PM', 'thursday': '5:30 AM to 10:00 PM', 'friday': '5:30 AM to 10:00 PM', 'saturday': '6:30 AM to 9:00 PM'}",10001
+New York,42nd btwn 3rd & Lex,US,-73.9752807617188,40.7508659362793,11854,"{'sunday': '6:00 AM to 8:00 PM', 'monday': '5:30 AM to 8:30 PM', 'tuesday': '5:30 AM to 8:30 PM', 'wednesday': '5:30 AM to 8:30 PM', 'thursday': '5:30 AM to 8:30 PM', 'friday': '5:30 AM to 8:30 PM', 'saturday': '6:00 AM to 8:00 PM'}",10017
+Astoria,31-44 Steinway Street,US,-73.9182205200195,40.7602272033691,11882,"{'sunday': '6:30 AM to 8:30 PM', 'monday': '6:00 AM to 9:30 PM', 'tuesday': '6:00 AM to 9:30 PM', 'wednesday': '6:00 AM to 9:30 PM', 'thursday': '6:00 AM to 9:30 PM', 'friday': '6:00 AM to 9:30 PM', 'saturday': '6:30 AM to 9:30 PM'}",11103
+New York,Canal and Centre,US,-74.0000152587891,40.7183303833008,11834,"{'sunday': '7:00 AM to 3:00 PM', 'monday': '6:30 AM to 6:30 PM', 'tuesday': '6:30 AM to 6:30 PM', 'wednesday': '6:30 AM to 6:30 PM', 'thursday': '6:30 AM to 6:30 PM', 'friday': '7:00 AM to 5:00 PM', 'saturday': '7:00 AM to 5:00 PM'}",10013
+New York,96th & Madison,US,-73.9544830322266,40.7871398925781,12003,"{'sunday': '6:00 AM to 8:00 PM', 'monday': '6:00 AM to 9:00 PM', 'tuesday': '6:00 AM to 9:00 PM', 'wednesday': '6:00 AM to 9:00 PM', 'thursday': '6:00 AM to 9:00 PM', 'friday': '6:00 AM to 9:00 PM', 'saturday': '6:00 AM to 8:00 PM'}",10037
+New York,Park Row at Beekman St,US,-74.0066680908203,40.7116432189941,12020,"{'sunday': '6:30 AM to 8:00 PM', 'monday': '6:00 AM to 8:30 PM', 'tuesday': '6:00 AM to 8:30 PM', 'wednesday': '6:00 AM to 8:30 PM', 'thursday': '6:00 AM to 8:30 PM', 'friday': '6:00 AM to 8:30 PM', 'saturday': '6:30 AM to 8:30 PM'}",10038
+New York,43rd & 8th,US,-73.988883972168,40.7580833435059,12039,,10036
+Staten Island,2505 Richmond Avenue,US,-74.1678161621094,40.5866241455078,12090,"{'sunday': '5:30 AM to 9:00 PM', 'monday': '5:30 AM to 8:00 PM', 'tuesday': '5:30 AM to 8:00 PM', 'wednesday': '5:30 AM to 8:00 PM', 'thursday': '5:30 AM to 8:00 PM', 'friday': '5:30 AM to 9:00 PM', 'saturday': '5:30 AM to 9:00 PM'}",10314
+New York,87th & Lexington,US,-73.9553451538086,40.7801399230957,12096,,10028
+New York,36th & Madison,US,-73.982292175293,40.7489776611328,12352,"{'sunday': '7:00 AM to 8:00 PM', 'monday': '6:00 AM to 8:00 PM', 'tuesday': '6:00 AM to 8:00 PM', 'wednesday': '6:00 AM to 8:00 PM', 'thursday': '6:00 AM to 8:00 PM', 'friday': '6:00 AM to 8:00 PM', 'saturday': '7:00 AM to 8:00 PM'}",10016
+New York,43rd & 3rd,US,-73.9735870361328,40.7515830993652,12402,"{'sunday': '6:30 AM to 7:00 PM', 'monday': '5:30 AM to 8:00 PM', 'tuesday': '5:30 AM to 8:00 PM', 'wednesday': '5:30 AM to 8:00 PM', 'thursday': '5:30 AM to 8:00 PM', 'friday': '5:30 AM to 8:00 PM', 'saturday': '6:30 AM to 7:00 PM'}",10035
+New York,Broadway Btwn 37th & 38th,US,-73.9872283935547,40.7524681091309,12100,,10018
+New York,125th & Lenox,US,-73.9451065063477,40.8078079223633,12294,"{'sunday': '7:00 AM to 7:00 PM', 'monday': '6:00 AM to 7:00 PM', 'tuesday': '6:00 AM to 7:00 PM', 'wednesday': '6:00 AM to 7:00 PM', 'thursday': '6:00 AM to 7:00 PM', 'friday': '6:00 AM to 7:00 PM', 'saturday': '7:00 AM to 7:00 PM'}",10027
+New York,84th & Third,US,-73.9551315307617,40.7774925231934,12330,"{'sunday': '6:30 AM to 7:00 PM', 'monday': '6:30 AM to 7:30 PM', 'tuesday': '6:30 AM to 7:30 PM', 'wednesday': '6:30 AM to 7:30 PM', 'thursday': '6:30 AM to 7:30 PM', 'friday': '6:30 AM to 7:30 PM', 'saturday': '6:30 AM to 7:00 PM'}",10028
+New York,85th & First,US,-73.9502029418945,40.7761268615723,12482,"{'sunday': '6:00 AM to 9:00 PM', 'monday': '5:30 AM to 9:00 PM', 'tuesday': '5:30 AM to 9:00 PM', 'wednesday': '5:30 AM to 9:00 PM', 'thursday': '5:30 AM to 9:00 PM', 'friday': '5:30 AM to 9:00 PM', 'saturday': '6:00 AM to 9:00 PM'}",10028
+New York,Rockefeller Center Subway,US,-73.98046875,40.7595062255859,12247,"{'sunday': '8:30 AM to 5:00 PM', 'monday': '5:30 AM to 7:00 PM', 'tuesday': '5:30 AM to 7:00 PM', 'wednesday': '5:30 AM to 7:00 PM', 'thursday': '5:30 AM to 7:00 PM', 'friday': '5:30 AM to 7:00 PM', 'saturday': '8:30 AM to 5:00 PM'}",10020
+Bronx,Target Riverdale T-1798,US,-73.9087295532227,40.873233795166,12556,"{'sunday': '8:00 AM to 9:00 PM', 'monday': '7:00 AM to 9:00 PM', 'tuesday': '7:00 AM to 9:00 PM', 'wednesday': '7:00 AM to 9:00 PM', 'thursday': '7:00 AM to 9:00 PM', 'friday': '7:00 AM to 8:00 PM', 'saturday': '8:00 AM to 9:00 PM'}",10463
+New York,42nd & 8th,US,-73.9891204833984,40.7571067810059,12705,,10036
+New York,2 Broadway,US,-74.0130157470703,40.7043495178223,12804,"{'sunday': '7:00 AM to 7:00 PM', 'monday': '6:00 AM to 7:00 PM', 'tuesday': '6:00 AM to 7:00 PM', 'wednesday': '6:00 AM to 7:00 PM', 'thursday': '6:00 AM to 7:00 PM', 'friday': '6:00 AM to 7:00 PM', 'saturday': '7:00 AM to 7:00 PM'}",10275
+Forest Hills,Queens Blvd & 67th Rd,US,-73.8527755737305,40.726261138916,12870,"{'sunday': '6:00 AM to 9:30 PM', 'monday': '5:30 AM to 9:30 PM', 'tuesday': '5:30 AM to 9:30 PM', 'wednesday': '5:30 AM to 9:30 PM', 'thursday': '5:30 AM to 9:30 PM', 'friday': '5:30 AM to 9:30 PM', 'saturday': '6:00 AM to 9:30 PM'}",11375
+Brooklyn,Flatbush Ave Atlantic Terminal,US,-73.9776382446289,40.6846771240234,12539,"{'sunday': '7:00 AM to 7:00 PM', 'monday': '6:30 AM to 8:00 PM', 'tuesday': '6:30 AM to 8:00 PM', 'wednesday': '6:30 AM to 8:00 PM', 'thursday': '6:30 AM to 8:00 PM', 'friday': '6:30 AM to 8:00 PM', 'saturday': '7:00 AM to 7:00 PM'}",11217
+Brooklyn,Target Atlantic Terminal T-1849,US,-73.9775161743164,40.684440612793,12555,"{'sunday': '8:00 AM to 9:00 PM', 'monday': '8:00 AM to 9:00 PM', 'tuesday': '8:00 AM to 9:00 PM', 'wednesday': '8:00 AM to 9:00 PM', 'thursday': '8:00 AM to 9:00 PM', 'friday': '8:00 AM to 9:00 PM', 'saturday': '8:00 AM to 9:00 PM'}",11208
+New York,52nd & Lex,US,-73.9708557128906,40.7576141357422,13388,,10152
+New York,42nd & 6th,US,-73.9837951660156,40.7548942565918,13481,,10036
+New York,93rd and Broadway,US,-73.973030090332,40.7925224304199,13521,,10025
+Astoria,31St St & Ditmars Blvd,US,-73.9109954833984,40.7761383056641,13535,,11105
+New York,34th & 7th,US,-73.9909820556641,40.7513732910156,13516,,10123
+Howard Beach,157-41 Cross Bay Blvd.,US,-73.8401565551758,40.661434173584,13525,"{'sunday': '6:00 AM to 10:30 PM', 'monday': '5:30 AM to 10:30 PM', 'tuesday': '5:30 AM to 10:30 PM', 'wednesday': '5:30 AM to 10:30 PM', 'thursday': '5:30 AM to 10:30 PM', 'friday': '5:30 AM to 10:30 PM', 'saturday': '6:00 AM to 10:30 PM'}",11414
+New York,19th & 8th,US,-74.0003433227539,40.7430000305176,13467,"{'sunday': '6:00 AM to 9:00 PM', 'monday': '5:30 AM to 9:00 PM', 'tuesday': '5:30 AM to 9:00 PM', 'wednesday': '5:30 AM to 9:00 PM', 'thursday': '5:30 AM to 9:00 PM', 'friday': '5:30 AM to 9:00 PM', 'saturday': '6:00 AM to 9:00 PM'}",10011
+Brooklyn,Court St & Joralemon,US,-73.9912643432617,40.6924476623535,13498,"{'sunday': '6:30 AM to 6:00 PM', 'monday': '6:00 AM to 8:00 PM', 'tuesday': '6:00 AM to 8:00 PM', 'wednesday': '6:00 AM to 8:00 PM', 'thursday': '6:00 AM to 8:00 PM', 'friday': '6:00 AM to 8:00 PM', 'saturday': '6:30 AM to 6:00 PM'}",11201
+New York,Water & Whitehall Streets,US,-74.0128021240234,40.7027854919434,13511,,10004
+Whitestone,138-11 20th Avenue,US,-73.8298721313477,40.7820205688477,13536,"{'sunday': '5:30 AM to 10:00 PM', 'monday': '5:00 AM to 10:00 PM', 'tuesday': '5:00 AM to 10:00 PM', 'wednesday': '5:00 AM to 10:00 PM', 'thursday': '5:00 AM to 10:00 PM', 'friday': '5:00 AM to 10:00 PM', 'saturday': '5:30 AM to 10:00 PM'}",11357
+New York,95th & Broadway,US,-73.9727478027344,40.7938652038574,13552,"{'sunday': '5:30 AM to 9:00 PM', 'monday': '5:30 AM to 9:00 PM', 'tuesday': '5:30 AM to 9:00 PM', 'wednesday': '5:30 AM to 9:00 PM', 'thursday': '5:30 AM to 9:00 PM', 'friday': '5:30 AM to 9:00 PM', 'saturday': '5:30 AM to 9:00 PM'}",10025
+Fresh Meadows,188th Street & 64th Ave,US,-73.7854843139648,40.7394027709961,13484,,11365
+Forest Hills,107-12 Continental Avenue,US,-73.8444442749023,40.7204399108887,13497,,11375
+Bayside,215th St. & Northern Blvd,US,-73.766471862793,40.7608604431152,13509,"{'sunday': '6:00 AM to 9:00 PM', 'monday': '5:00 AM to 9:00 PM', 'tuesday': '5:00 AM to 9:00 PM', 'wednesday': '5:00 AM to 9:00 PM', 'thursday': '5:00 AM to 9:00 PM', 'friday': '5:00 AM to 9:00 PM', 'saturday': '6:00 AM to 9:00 PM'}",11361
+Flushing,Main St & 41St Ave,US,-73.8295440673828,40.7580871582031,13531,"{'sunday': '5:30 AM to 9:00 PM', 'monday': '5:30 AM to 9:00 PM', 'tuesday': '5:30 AM to 9:00 PM', 'wednesday': '5:30 AM to 9:00 PM', 'thursday': '5:30 AM to 9:00 PM', 'friday': '5:30 AM to 9:00 PM', 'saturday': '5:30 AM to 9:00 PM'}",11355
+New York,Broadway at Barclay Str,US,-74.0081939697266,40.7122077941895,13537,,10279
+New York,45th & Park,US,-73.9764633178711,40.7540283203125,13539,,10037
+New York,80th & York,US,-73.9499206542969,40.7723579406738,13917,"{'sunday': '6:30 AM to 8:00 PM', 'monday': '5:30 AM to 9:00 PM', 'tuesday': '5:30 AM to 9:00 PM', 'wednesday': '5:30 AM to 9:00 PM', 'thursday': '5:30 AM to 9:00 PM', 'friday': '5:30 AM to 9:00 PM', 'saturday': '6:30 AM to 8:00 PM'}",10128
+New York,West 23rd and 8th,US,-73.9987411499023,40.7451019287109,13905,"{'sunday': '6:00 AM to 7:00 PM', 'monday': '5:30 AM to 8:00 PM', 'tuesday': '5:30 AM to 8:00 PM', 'wednesday': '5:30 AM to 7:00 PM', 'thursday': '5:30 AM to 8:00 PM', 'friday': '5:30 AM to 8:00 PM', 'saturday': '6:00 AM to 8:00 PM'}",10011
+Brooklyn,Bay Ridge Pkwy & 3rd Ave,US,-74.0275650024414,40.6315727233887,13849,"{'sunday': '7:30 AM to 8:30 PM', 'monday': '6:00 AM to 8:30 PM', 'tuesday': '6:00 AM to 8:30 PM', 'wednesday': '6:00 AM to 8:30 PM', 'thursday': '6:00 AM to 8:30 PM', 'friday': '6:00 AM to 8:30 PM', 'saturday': '7:30 AM to 8:30 PM'}",11209
+New York,43rd & Broadway,US,-73.9859008789062,40.7566413879395,13918,"{'sunday': '6:00 AM to 11:00 PM', 'monday': '6:00 AM to 11:00 PM', 'tuesday': '6:00 AM to 11:00 PM', 'wednesday': '6:00 AM to 11:00 PM', 'thursday': '6:00 AM to 11:00 PM', 'friday': '6:00 AM to 11:00 PM', 'saturday': '6:00 AM to 11:00 PM'}",10036
+Brooklyn,65th St & 18th Ave,US,-73.9899139404297,40.6191711425781,13895,,11204
+New York,58th & Eight,US,-73.9829483032227,40.7675514221191,13904,,10019
+New York,51st btwn Park & Madison,US,-73.9741592407227,40.7583694458008,13907,,10022
+Woodside,Tower Square Shopping Center,US,-73.9094009399414,40.7524452209473,14058,,11377
+Elmhurst,Queens Center Mall,US,-73.8691711425781,40.7345848083496,14153,,11373
+New York,53rd & Sixth (NE Corner),US,-73.9786987304688,40.7618446350098,14154,,10019
+New York,48th & 3rd,US,-73.9717102050781,40.7541236877441,12091,,10017
+New York,31st & 6th,US,-73.9892501831055,40.7480278015137,14380,,10120
+New York,39th & Park,US,-73.9791412353516,40.7506065368652,14439,,10016
+Staten Island,2530 Hylan Blvd,US,-74.1097869873047,40.5694732666016,14742,,10306
+Staten Island,Staten Island Mall,US,-74.1664352416992,40.5816192626953,14502,,10314
+New York,34th & Park,US,-73.9810943603516,40.7467231750488,14526,,10016
+New York,Javits Convention Ctr Taxi North,US,-74.0034255981445,40.7567825317383,14762,,10001
+New York,86th & Columbus,US,-73.9722442626953,40.7867050170898,15082,,10024
+New York,165 Broadway - 1 Liberty,US,-74.0104217529297,40.7095260620117,14988,,10003
+New York,70th & Broadway,US,-73.9824752807617,40.777645111084,15083,,10040
+New York,17th & 1st,US,-73.9808197021484,40.7332305908203,15099,,10009
+New York,Greenwich Ave at Bank St,US,-74.0017166137695,40.7372512817383,15174,,10014
+New York,6th & Waverly (Waverly Place),US,-73.9997634887695,40.7330360412598,14816,,10011
+New York,Secure Access: 55th & Sixth,US,-73.9788055419922,40.7629203796387,15427,,10019
+New York,54th & Lex,US,-73.9709396362305,40.7587432861328,15679,,10022
+New York,15th & Ninth,US,-74.0046310424805,40.7416839599609,15686,,10011
+New York,181st & Fort Washington,US,-73.9384231567383,40.851001739502,15692,,10033
+New York,"Penn Station by A,C,E",US,-73.9933547973633,40.7509536743164,15306,,10001
+New York,Lafayette & Worth,US,-74.0031127929688,40.7157325744629,15295,,10013
+Staten Island,Forest Ave & Bard Ave,US,-74.1061248779297,40.6304550170898,15314,,10310
+New York,Grand Central,US,-73.9767913818359,40.7536697387695,15298,,10037
+New York,42nd & Park,US,-73.977653503418,40.7517738342285,15315,,10178
+New York,76th & Second,US,-73.9568252563477,40.7712135314941,15674,,10035
+New York,42nd & Madison,US,-73.9795074462891,40.7530975341797,16090,,10017
+New York,29th & Park,US,-73.9837493896484,40.7442588806152,16206,,10016
+Brooklyn,164 7th Avenue,US,-73.9774627685547,40.6719779968262,15830,,11215
+New York,39th & 7th,US,-73.9884338378906,40.7536468505859,15836,,10019
+New York,8th & 16th,US,-74.0012969970703,40.741153717041,16006,,10011
+New York,41st & 3rd,US,-73.9745635986328,40.7501945495605,16079,,10017
+New York,60th & First,US,-73.9611358642578,40.7603492736816,16178,,10065
+New York,55 Broad Street,US,-74.0112915039062,40.7051620483398,16214,,10004
+New York,195 Broadway,US,-74.0102844238281,40.7109222412109,16209,,10007
+New York,29th & 5th,US,-73.9867630004883,40.7450180053711,16215,,10016
+New York,32nd & 2nd,US,-73.9768676757812,40.7436790466309,15875,,10016
+New York,Union Square East,US,-73.9898452758789,40.7350234985352,16211,,10003
+New York,48th & Lex,US,-73.9732208251953,40.7550201416016,16452,,10017
+New York,Marriott Marquis - Street Level,US,-73.9856338500977,40.7579917907715,16303,,10036
+New York,43rd & 9th,US,-73.9925155639648,40.7589340209961,16465,,10036
+New York,56th Btwn Sixth & Seventh,US,-73.9788970947266,40.7640190124512,16480,,10019
+New York,47th & 8th,US,-73.987190246582,40.7604446411133,14350,,10036
+New York,56th & Sixth,US,-73.9773025512695,40.7637062072754,14568,,10019
+Bronx,225th & Kingsbridge Plaza,US,-73.9085159301758,40.8735656738281,14722,,10463
+New York,Lafayette & 8th Street,US,-73.9916610717773,40.7300071716309,16517,,10003
+New York,57th Btwn Eighth & Ninth,US,-73.9839859008789,40.767032623291,16687,,10019
+Bronx,Metropolitan Ave & Wood Ave,US,-73.8615112304688,40.8353958129883,16503,,10462
+New York,35th & 8th,US,-73.9929046630859,40.7526321411133,16813,,10001
+New York,49th btwn 8th & 9th,US,-73.9874572753906,40.7621765136719,16666,,10019
+New York,State St & Pearl Streets,US,-74.0141220092773,40.7032852172852,16686,,10038
+Forest Hills,7000 Austin Street,US,-73.8473663330078,40.7209777832031,16733,,11375
+New York, 51st & Broadway,US,-73.9833450317383,40.762092590332,16633,,10019
+New York,23rd & 3rd,US,-73.9833984375,40.7387924194336,16671,,10010
+New York,100 Williams Street,US,-74.0074005126953,40.7084121704102,16844,,10038
+New York,Broadway and Bond,US,-73.9954605102539,40.7271919250488,16853,,10003
+Brooklyn,Main St & Front St,US,-73.9909057617188,40.702693939209,16940,,11242
+New York,40th & Lex,US,-73.9770431518555,40.7503318786621,16936,,10016
+New York,44th & Madison,US,-73.9787139892578,40.7538757324219,16970,,10017
+New York,49th & Madison,US,-73.9758987426758,40.7569618225098,17016,,10017
+New York,Hudson & 10th,US,-74.0061264038086,40.7336769104004,17329,,10014
+New York,Hudson & King,US,-74.0074081420898,40.7275581359863,17392,,10014
+Forest Hills,Stop & Shop-Forest Hills #539,US,-73.8581237792969,40.7057266235352,17311,,11421
+Brooklyn,6 Metro Tech at Jay Street,US,-73.986930847168,40.6940078735352,17013,,11242
+Brooklyn,Smith St & Wyckoff St,US,-73.9909973144531,40.6862258911133,17069,,11201
+Brooklyn,910 Manhattan Avenue,US,-73.9541397094727,40.7305297851562,17014,,11222
+New York,Broadway & Canal,US,-74.0025177001953,40.7189025878906,17070,,10003
+New York,92nd & Third,US,-73.9514312744141,40.7826271057129,17572,,10035
+New York,Macy's 3rd Floor,US,-73.9881057739258,40.7505874633789,17697,,10001
+New York,63rd & Broadway,US,-73.9825897216797,40.7713661193848,17786,,10023
+Staten Island,Stop & Shop-Staten Island #581,US,-74.1146697998047,40.5640640258789,17544,,10306
+New York,81st & Columbus,US,-73.9744567871094,40.783634185791,17571,,10024
+New York,Broadway & Thames,US,-74.011116027832,40.7087287902832,17705,,10006
+New York,50th & 2nd,US,-73.9686126708984,40.7550430297852,17627,,10022
+New York,168th & Broadway,US,-73.9398193359375,40.8413505554199,18042,,10032
+Bellerose,251-05 Jamaica Avenue,US,-73.7140197753906,40.7270126342773,18229,,11426
+New York,145th & Bradhurst,US,-73.9426116943359,40.8233833312988,18230,,10039
+New York,2nd Ave. & 9th Street,US,-73.9873733520508,40.7293586730957,18409,,10003
+New York,28th & 7th,US,-73.9933242797852,40.7469749450684,18290,,10001
+New York,39th & 8th,US,-73.9909057617188,40.7553253173828,18444,,10018
+New York,Broadway & Reade,US,-74.0059356689453,40.7148551940918,18526,,10007
+New York,58th & Sixth,US,-73.9770889282227,40.7647666931152,18618,,10019
+New York,Limited Brands-NYC,US,-73.9820251464844,40.7652206420898,18679,,10019
+Brooklyn,3rd Ave & 92nd St,US,-74.0329513549805,40.6192741394043,18465,,11209
+New York,47th & 5th,US,-73.9781646728516,40.7563018798828,18588,,10017
+New York,7th Ave at Grove Street,US,-74.0028457641602,40.7331848144531,18506,,10014
+New York,Target East River Plaza T-2380,US,-73.9325485229492,40.7956886291504,19040,,10035
+Elmhurst,Target Queens Place T-1344,US,-73.8749084472656,40.7353286743164,19141,,11373
+Flushing,Target Flushing T-2451,US,-73.8340606689453,40.757266998291,19218,,11354
+New York,96th & Lexington,US,-73.9506607055664,40.785945892334,19114,,10029
+Astoria,31-01 Broadway,US,-73.9250717163086,40.7619934082031,20069,,11106
+New York,23rd & Park,US,-73.9869689941406,40.740161895752,17645,,10010
+Brooklyn,514 86th St,US,-74.0258178710938,40.6211318969727,17881,,11209
+Brooklyn,Target Gateway T-1401,US,-73.8677139282227,40.6522254943848,65799,,11239
+New York,43rd & Sixth,US,-73.984130859375,40.7556076049805,20501,,10019
+New York,8th Ave just south of 14th St,US,-74.0026092529297,40.7393760681152,35545,,10011
+New York,69th & First,US,-73.9575347900391,40.7660789489746,65754,,10021
+New York,W Broadway & Leonard Street,US,-74.0073165893555,40.7182312011719,66292,,10013
+Brooklyn,Macy's-Kings Plaza #6,US,-73.9204635620117,40.6110420227051,69677,,11234
+New York,36th & 6th,US,-73.9870147705078,40.7509994506836,69880,,10019
+New York,26th & Broadway,US,-73.988883972168,40.7438316345215,70030,,10001
+New York,3rd St & First Avenue,US,-73.9876937866211,40.724536895752,70170,,10009
+Brooklyn,134 Montague Street,US,-73.9939651489258,40.6947021484375,88600,,11201
+New York,25th & Lex,US,-73.9843292236328,40.7405090332031,90244,,10010
+New York,52nd Btwn Fifth & Sixth,US,-73.979362487793,40.7606925964355,88886,,10019
+New York,100th & Columbus,US,-73.9655303955078,40.7952346801758,89150,,10025
+Brooklyn,348 Fulton Street,US,-73.9885635375977,40.691764831543,89214,,11242
+New York,John & Water Streets,US,-74.004768371582,40.7072143554688,90577,,10038
+New York,42nd & 9th,US,-73.9919586181641,40.7579956054688,91201,,10036
+Brooklyn,Barclays Center,US,-73.975944519043,40.6826362609863,91225,,11217
+New York,Macy's 2nd Floor,US,-73.9887084960938,40.750789642334,90222,,10001
+New York,53rd & Sixth (SW Corner),US,-73.9795455932617,40.7617950439453,90480,,10019
+New York,13th & 1st,US,-73.9832000732422,40.730899810791,90278,,10003
+New York,58th Btwn Madison & Fifth,US,-73.9723510742188,40.7630767822266,90579,,10022
+New York,Manhattan Mall 1st Floor,US,-73.9883041381836,40.7491455078125,113227,,10120
+New York,Brookfield Place 1,US,-74.0154266357422,40.7111358642578,113971,,10281
+Elmhurst,Queens Blvd & Broadway,US,-73.8772964477539,40.7374458312988,113993,,11373
+Brooklyn,164 Park Place,US,-73.9729385375977,40.6774826049805,116485,,11238
+New York,28th & 3rd,US,-73.9807739257812,40.7417907714844,114014,,10016
+New York,63rd & Lexington,US,-73.9663619995117,40.764705657959,116566,,10062
+Staten Island,106 Page Avenue,US,-74.2355422973633,40.5216369628906,116567,,10307
+New York,Pearl & Maiden,US,-74.0065841674805,40.7063179016113,1004742,,10005
+New York,99 Wall Street,US,-74.0072326660156,40.7048187255859,1005523,,10005
+New York,47th & Broadway,US,-73.985237121582,40.7596282958984,1005509,,10036
+New York,Port Authority South Wing,US,-73.9909591674805,40.756706237793,1005154,,10036
+Brooklyn,395 Flatbush Ave Extension,US,-73.9809112548828,40.6894302368164,1005807,,11227
+New York,Macy's Mezzanine,US,-73.9890213012695,40.7505264282227,1005655,,10001
+New York,53rd & Madison,US,-73.9736022949219,40.759593963623,1005802,,10022
+New York,57th & Eighth,US,-73.9829559326172,40.7663078308105,1005900,,10107
+Brooklyn,1417 Kings Highway,US,-73.9585876464844,40.6087875366211,1005808,,11229
+New York,23rd & 1st,US,-73.9783782958984,40.7365455627441,1005905,,10010
+Staten Island,Target Staten Island T-2753,US,-74.1697082519531,40.5753440856934,1006013,,10314
+New York,99th & Broadway,US,-73.9705963134766,40.7967872619629,1006372,,10025
+New York,Broadway & Dyckman,US,-73.9272842407227,40.86572265625,1006441,,10034
+New York,UNIQLO @ 53rd & Fifth,US,-73.97607421875,40.7603874206543,1006912,,10019
+New York,87th & Third,US,-73.9536972045898,40.7794647216797,1006781,,10128
+New York,60 Wall St,US,-74.0083465576172,40.7060317993164,1006984,,10005
+New York,49th & Park,US,-73.9749298095703,40.7565727233887,1007200,,10017
+New York,53rd Inside Park Ave Plaza,US,-73.9737548828125,40.7589683532715,1010008,,10055
+New York,6th Ave at Walker Street,US,-74.0049514770508,40.7198524475098,1007714,,10013
+Astoria,Astoria Blvd & 31st St,US,-73.9185104370117,40.7700309753418,1007349,,11102
+Bronx,Fordham Plaza,US,-73.890266418457,40.8606338500977,1007323,,10458
+Bronx,Target Bronx T-2811,US,-73.836555480957,40.8248863220215,1007525,,10465
+Bronx,Manhattan College - Thomas Hall Stu,US,-73.9024124145508,40.8891105651855,1006910,,10471
+New York,45th & 5th,US,-73.9801483154297,40.7554626464844,1010241,,10036
+Brooklyn,Union Ave & Ainslie St,US,-73.9515686035156,40.7125968933105,1006971,,11211
+New York,239 Bleecker St,US,-74.0024108886719,40.730770111084,1007715,,10014
+New York,54th and Broadway,US,-73.9823532104492,40.7636871337891,1010184,,10019
+Brooklyn,Kings Plaza Mall,US,-73.9211273193359,40.6101913452148,1008866,,11234
+Brooklyn,Franklin Ave & Eastern Pkwy,US,-73.9576950073242,40.6710243225098,1007630,,11216
+Richmond Hill,132-40 Metropolitan Ave,US,-73.8185958862305,40.7025909423828,1006790,,11418
+Brooklyn,Caesar's Bay Shopping Center,US,-74.0003280639648,40.5950927734375,1007631,,11214
+Brooklyn,154 N Seventh St,US,-73.9581756591797,40.717945098877,1007809,,11211
+Flushing,3805 Main St,US,-73.8303756713867,40.7606010437012,1009150,,11354
+New York,43rd & Lex,US,-73.975227355957,40.7523002624512,1007742,,10037
+New York,80th & Second,US,-73.9546432495117,40.7742156982422,1011437,,10028
+New York,New York University,US,-73.9961776733398,40.7296562194824,14149,,10011
+New York,Water St @ Broad (inside),US,-74.0120315551758,40.7020454406738,1008845,,10004
+New York,53rd & 3rd,US,-73.9690933227539,40.7573738098145,1010020,,10035
+New York,57th & Tenth,US,-73.98828125,40.7691688537598,1009088,,10019
+New York,14 Wall St,US,-74.0109634399414,40.7074584960938,1011752,,10005
+Brooklyn,394 Myrtle Ave,US,-73.9701309204102,40.6930122375488,1009474,,11237
+New York,45th btwn Lex & 3rd,US,-73.9739379882812,40.7528533935547,1011956,,10017
+Brooklyn,Gold St & Johnson Street,US,-73.9831008911133,40.6949653625488,1009903,"{'sunday': '5:30 AM to 7:30 PM', 'monday': '5:30 AM to 7:00 PM', 'tuesday': '5:30 AM to 7:00 PM', 'wednesday': '5:30 AM to 7:00 PM', 'thursday': '5:30 AM to 7:00 PM', 'friday': '5:30 AM to 7:00 PM', 'saturday': '5:30 AM to 7:30 PM'}",11201
+Staten Island,Teavana - Staten Island Mall,US,-74.1691513061523,40.5809631347656,1012501,,10312
+Elmhurst,Teavana - Queens Center,US,-73.8717575073242,40.7341346740723,1012754,,11373
+New York,110th & Manhattan,US,-73.959602355957,40.8008918762207,1012150,,10025
+New York,Teavana - Manhattan Project,US,-73.9550933837891,40.7800331115723,1012513,,10035
+New York,Teavana - Broadway at 81st,US,-73.9791870117188,40.7853507995605,1012691,,10024
+Bronx,230th & Broadway,US,-73.9055633544922,40.8775596618652,1007629,"{'sunday': '6:00 AM to 9:00 PM', 'monday': '5:00 AM to 9:00 PM', 'tuesday': '5:00 AM to 9:00 PM', 'wednesday': '5:00 AM to 9:00 PM', 'thursday': '5:00 AM to 9:00 PM', 'friday': '5:00 AM to 9:00 PM', 'saturday': '6:00 AM to 9:00 PM'}",10463
+New York,32nd btwn 6th & 7th,US,-73.9904251098633,40.7491149902344,1006756,"{'sunday': 'Closed', 'monday': '5:30 AM to 5:00 PM', 'tuesday': '5:30 AM to 5:00 PM', 'wednesday': '5:30 AM to 5:00 PM', 'thursday': '5:30 AM to 5:00 PM', 'friday': '5:30 AM to 5:00 PM', 'saturday': 'Closed'}",10001
+Brooklyn,Lam Group @ Sheraton Brooklyn,US,-73.9843521118164,40.6915664672852,1012534,,11201
+New York,63rd & 3rd Ave,US,-73.9642791748047,40.7642059326172,1014942,"{'sunday': '6:30 AM to 8:30 PM', 'monday': '5:30 AM to 8:30 PM', 'tuesday': '5:30 AM to 8:30 PM', 'wednesday': '5:30 AM to 8:30 PM', 'thursday': '5:30 AM to 8:30 PM', 'friday': '5:30 AM to 8:30 PM', 'saturday': '6:30 AM to 8:30 PM'}",10065
+Bronx,161st & Morris Ave,US,-73.9190521240234,40.8256034851074,1013054,"{'sunday': '6:00 AM to 8:00 PM', 'monday': '5:30 AM to 8:00 PM', 'tuesday': '5:30 AM to 8:00 PM', 'wednesday': '5:30 AM to 8:00 PM', 'thursday': '5:30 AM to 8:00 PM', 'friday': '5:30 AM to 8:00 PM', 'saturday': '6:00 AM to 8:00 PM'}",10451
+New York,ABC 77 West Cafe,US,-73.9801330566406,40.7731018066406,1013064,"{'sunday': 'Closed', 'monday': '7:00 AM to 4:00 PM', 'tuesday': '7:00 AM to 4:00 PM', 'wednesday': '7:00 AM to 4:00 PM', 'thursday': '7:00 AM to 4:00 PM', 'friday': '7:00 AM to 2:30 PM', 'saturday': 'Closed'}",10023
+New York,Union Square West,US,-73.9911193847656,40.736270904541,1013197,,10003
+New York,33rd btwn 5th & 6th,US,-73.9856262207031,40.748233795166,1012266,"{'sunday': 'Closed', 'monday': '6:30 AM to 6:00 PM', 'tuesday': '6:30 AM to 6:00 PM', 'wednesday': '6:30 AM to 6:00 PM', 'thursday': '5:30 AM to 6:00 PM', 'friday': '5:30 AM to 6:00 PM', 'saturday': 'Closed'}",10118
+New York,Starbucks Level 3 Jacob Javits Cemt,US,-74.0034942626953,40.7564163208008,1007160,"{'sunday': 'Closed', 'monday': '8:00 AM to 2:00 PM', 'tuesday': '8:00 AM to 2:00 PM', 'wednesday': '8:00 AM to 2:00 PM', 'thursday': '8:00 AM to 2:00 PM', 'friday': '8:00 AM to 2:00 PM', 'saturday': 'Closed'}",10001
+New York,26th between 10th and 11th,US,-74.0039978027344,40.7502784729004,1013606,,10001
+New York,40th btwn Madison & 5th,US,-73.9811096191406,40.7520332336426,1013717,,10017
+New York,6th between 39th and 40th,US,-73.9851150512695,40.7531204223633,1014050,"{'sunday': '6:30 AM to 8:30 PM', 'monday': '5:30 AM to 9:00 PM', 'tuesday': '5:30 AM to 9:00 PM', 'wednesday': '5:30 AM to 9:00 PM', 'thursday': '5:30 AM to 9:00 PM', 'friday': '5:30 AM to 9:00 PM', 'saturday': '6:30 AM to 8:30 PM'}",10019
+Jamaica,89th Ave & Sutphin Blvd.,US,-73.8088226318359,40.703540802002,1014349,"{'sunday': '6:00 AM to 9:00 PM', 'monday': '6:00 AM to 9:00 PM', 'tuesday': '6:00 AM to 9:00 PM', 'wednesday': '6:00 AM to 9:00 PM', 'thursday': '6:00 AM to 9:00 PM', 'friday': '6:00 AM to 9:00 PM', 'saturday': '6:00 AM to 9:00 PM'}",11435
+Brooklyn,Flatbush Ave & Kings Hwy,US,-73.9366683959961,40.6226348876953,1009148,"{'sunday': '6:00 AM to 8:00 PM', 'monday': '5:30 AM to 8:00 PM', 'tuesday': '5:30 AM to 8:00 PM', 'wednesday': '5:30 AM to 8:00 PM', 'thursday': '5:30 AM to 8:00 PM', 'friday': '5:30 AM to 8:00 PM', 'saturday': '6:00 AM to 8:00 PM'}",11234
+Rego Park,92-77 Queens Blvd,US,-73.8665237426758,40.7321891784668,1008876,"{'sunday': '5:30 AM to 12:00 AM', 'monday': '5:30 AM to 11:00 PM', 'tuesday': '5:30 AM to 11:00 PM', 'wednesday': '5:30 AM to 11:00 PM', 'thursday': '5:30 AM to 11:00 PM', 'friday': '5:30 AM to 11:00 PM', 'saturday': '5:30 AM to 12:00 AM'}",11374
+New York,46th between 6th and 5th,US,-73.9811401367188,40.7570533752441,1014671,"{'sunday': '8:00 AM to 4:00 PM', 'monday': '5:30 AM to 6:30 PM', 'tuesday': '5:30 AM to 6:30 PM', 'wednesday': '5:30 AM to 6:30 PM', 'thursday': '5:30 AM to 6:30 PM', 'friday': '5:30 AM to 6:30 PM', 'saturday': '8:00 AM to 4:00 PM'}",10036
+New York,222 Broadway,US,-74.0086441040039,40.7107963562012,1014357,,10038
+New York,Columbus Circle Subway,US,-73.9814682006836,40.7681465148926,1014682,,10023
+Rego Park,95-17 63rd Drive,US,-73.8627548217773,40.729808807373,1009778,"{'sunday': '6:00 AM to 9:30 PM', 'monday': '5:30 AM to 9:30 PM', 'tuesday': '5:30 AM to 9:30 PM', 'wednesday': '5:30 AM to 9:30 PM', 'thursday': '5:30 AM to 9:30 PM', 'friday': '5:30 AM to 9:30 PM', 'saturday': '6:00 AM to 9:30 PM'}",11374
+Bronx,Eastchester Rd. & Morris Park Ave.,US,-73.844108581543,40.8511047363281,1015362,"{'sunday': '5:30 AM to 9:00 PM', 'monday': '5:00 AM to 9:00 PM', 'tuesday': '5:00 AM to 9:00 PM', 'wednesday': '5:00 AM to 9:00 PM', 'thursday': '5:00 AM to 9:00 PM', 'friday': '5:00 AM to 9:00 PM', 'saturday': '5:30 AM to 9:00 PM'}",10461
+New York,JP Morgan New York Plaza - 14th FL,US,-74.0114364624023,40.7028617858887,1015445,,10004
+Bronx,Throgs Neck Shopping Center,US,-73.8380966186523,40.8243141174316,1015873,"{'sunday': '6:30 AM to 9:30 PM', 'monday': '5:30 AM to 9:30 PM', 'tuesday': '5:30 AM to 9:30 PM', 'wednesday': '5:30 AM to 9:30 PM', 'thursday': '5:30 AM to 9:30 PM', 'friday': '5:30 AM to 9:30 PM', 'saturday': '6:30 AM to 9:30 PM'}",10473
+New York,Brookfield Place 2,US,-74.0154342651367,40.714168548584,1015738,"{'sunday': '6:30 AM to 7:30 PM', 'monday': '5:30 AM to 7:30 PM', 'tuesday': '5:30 AM to 7:30 PM', 'wednesday': '5:30 AM to 7:30 PM', 'thursday': '5:30 AM to 7:30 PM', 'friday': '5:30 AM to 7:30 PM', 'saturday': '6:30 AM to 7:30 PM'}",10281
+New York,Broadway and 9th,US,-73.992057800293,40.7313613891602,1016069,,10003
+New York,10 Waverly Place,US,-73.9942626953125,40.7299842834473,1015672,,10011
+New York,85th & Madison,US,-73.9595642089844,40.7801361083984,1015661,"{'sunday': '5:00 AM to 8:30 PM', 'monday': '5:00 AM to 8:30 PM', 'tuesday': '5:00 AM to 8:30 PM', 'wednesday': '5:00 AM to 8:30 PM', 'thursday': '5:00 AM to 8:30 PM', 'friday': '5:00 AM to 8:30 PM', 'saturday': '5:00 AM to 8:30 PM'}",10028
+Brooklyn,7th Ave and 9th St,US,-73.9817810058594,40.6668548583984,1015924,"{'sunday': '6:00 AM to 9:00 PM', 'monday': '5:30 AM to 8:00 PM', 'tuesday': '5:30 AM to 8:00 PM', 'wednesday': '5:30 AM to 8:00 PM', 'thursday': '5:30 AM to 8:00 PM', 'friday': '5:30 AM to 8:00 PM', 'saturday': '6:00 AM to 9:00 PM'}",11215
+New York,93rd & Second,US,-73.948371887207,40.7827758789062,1015899,"{'sunday': '5:30 AM to 7:30 PM', 'monday': '5:30 AM to 8:30 PM', 'tuesday': '5:30 AM to 8:30 PM', 'wednesday': '5:30 AM to 8:30 PM', 'thursday': '5:30 AM to 8:30 PM', 'friday': '5:30 AM to 8:30 PM', 'saturday': '5:30 AM to 7:30 PM'}",10035
+Staten Island,Woodrow Shopping Plaza,US,-74.2070999145508,40.5419845581055,1015914,"{'sunday': '5:00 AM to 8:30 PM', 'monday': '5:00 AM to 8:30 PM', 'tuesday': '5:00 AM to 8:30 PM', 'wednesday': '5:00 AM to 8:30 PM', 'thursday': '5:00 AM to 8:30 PM', 'friday': '5:00 AM to 8:30 PM', 'saturday': '5:30 AM to 9:30 PM'}",10309
